@@ -1,2 +1,7 @@
-# Cross-Site-Request-Forgery-Demo
-Cross-site request forgery, also known as  one-click attack or session riding and abbreviated as CSRF or XSRF, is a type of malicious  exploit of a website where unauthorised commands are transmitted from a user that the web application trusts
+# Secure Software Systems - Assignment_1
+
+<h1 style="font-size: 35px;">Secure Software Systems </br> Assignment 1</h1>
+        <p>Cross Site Request Forgery Protection - Synchronizer Token</p>
+    <hr>
+    
+ <h1 style="font-size: 35px;">Username : ADMIN </br> Password : ADMIN123</h1>
